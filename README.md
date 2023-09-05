@@ -21,12 +21,12 @@ cd /c/Users/Ivanr/OneDrive/Escritorio/Semestre\ 9/Interfaces\ web/Unidad\ 1/iw20
 touch README.md
 ![image](https://github.com/IvanRobles19/iw2023ittepic/assets/107086571/1585b127-7eda-480f-be66-401a758142dc)
 
-nombre| git
-lluan12 |	https://github.com/Lluan12/iw2023ittepic
-XxXelbichoXxX |	https://github.com/XxXelbichoXxX/iw2023ittepic
-SebastianMedina2023 |	https://github.com/SebastianMedina2023/iw2023ittepic
-edramontoyava |	https://github.com/edramontoyava/iw2023ittepic
-PaulRazon |	https://github.com/PaulRazon/iwittepic2023
+|nombre | git |
+|lluan12 |	https://github.com/Lluan12/iw2023ittepic |
+|XxXelbichoXxX |	https://github.com/XxXelbichoXxX/iw2023ittepic |
+|SebastianMedina2023 |	https://github.com/SebastianMedina2023/iw2023ittepic |
+|edramontoyava |	https://github.com/edramontoyava/iw2023ittepic |
+|PaulRazon |	https://github.com/PaulRazon/iwittepic2023 |
 
 
 
